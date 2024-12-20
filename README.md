@@ -171,10 +171,8 @@ Add advanced querying and reporting features.
 
 Implement user authentication and access control.
 
+SLIDES PRESENTATION LINK- https://docs.google.com/presentation/d/12FBhSJI6Zz9TE9NOzB9nmmIROtT-FI84K-1nia1LTGM/edit#slide=id.g2d72135ae38_0_390
+
 License
 
 This project is licensed under the MIT License.
-
-Author
-
-Developed by [Your Name].
